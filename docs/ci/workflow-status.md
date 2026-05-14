@@ -48,7 +48,7 @@ _None._
 
 | Workflow | Status | Last activity | Trigger | Live badge |
 |---|---|---|---|---|
-| `backwards-compatibility.yml` | · | this week | workflow_call, PR, push:main, release, schedule(0 2 * * 0), manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/backwards-compatibility.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/backwards-compatibility.yml) |
+| `backwards-compatibility.yml` | ✅ | this week | workflow_call, PR, push:main, release, schedule(0 2 * * 0), manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/backwards-compatibility.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/backwards-compatibility.yml) |
 | `bearer.yml` | ✅ | this week | manual, workflow_call, schedule(0 4 * * *) | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/bearer.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/bearer.yml) |
 | `checkov.yml` | ✅ | this week | manual, workflow_call | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/checkov.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/checkov.yml) |
 | `codeql.yml` | ✅ | this week | push:main, PR, schedule(45 5 * * 0), workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/codeql.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/codeql.yml) |
@@ -73,18 +73,18 @@ _None._
 | Workflow | Status | Last activity | Trigger | Live badge |
 |---|---|---|---|---|
 | `check-env-vars.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/check-env-vars.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/check-env-vars.yml) |
-| `ci-gate.yml` | · | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ci-gate.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ci-gate.yml) |
-| `compose-integration-test.yml` | · | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/compose-integration-test.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/compose-integration-test.yml) |
+| `ci-gate.yml` | ✅ | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ci-gate.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ci-gate.yml) |
+| `compose-integration-test.yml` | ✅ | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/compose-integration-test.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/compose-integration-test.yml) |
 | `docker-tests.yml` | ⊘ | this week | PR, push:main, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/docker-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/docker-tests.yml) |
 | `file-whitelist-check.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/file-whitelist-check.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/file-whitelist-check.yml) |
 | `mypy-type-check.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/mypy-type-check.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/mypy-type-check.yml) |
-| `playwright-webkit-tests.yml` | · | this week | workflow_call, manual, schedule(0 2 * * *) | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/playwright-webkit-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/playwright-webkit-tests.yml) |
+| `playwright-webkit-tests.yml` | ✅ | this week | workflow_call, manual, schedule(0 2 * * *) | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/playwright-webkit-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/playwright-webkit-tests.yml) |
 | `pre-commit.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/pre-commit.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/pre-commit.yml) |
-| `puppeteer-e2e-tests.yml` | · | this week | PR, workflow_call, manual, schedule(0 2 * * 0) | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/puppeteer-e2e-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/puppeteer-e2e-tests.yml) |
-| `responsive-ui-tests-enhanced.yml` | · | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/responsive-ui-tests-enhanced.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/responsive-ui-tests-enhanced.yml) |
+| `puppeteer-e2e-tests.yml` | ❌ | this week | PR, workflow_call, manual, schedule(0 2 * * 0) | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/puppeteer-e2e-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/puppeteer-e2e-tests.yml) |
+| `responsive-ui-tests-enhanced.yml` | ✅ | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/responsive-ui-tests-enhanced.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/responsive-ui-tests-enhanced.yml) |
 | `security-file-write-check.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/security-file-write-check.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/security-file-write-check.yml) |
 | `validate-image-pinning.yml` | ⊘ | this week | PR, workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/validate-image-pinning.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/validate-image-pinning.yml) |
-| `vulture-dead-code.yml` | · | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/vulture-dead-code.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/vulture-dead-code.yml) |
+| `vulture-dead-code.yml` | ✅ | this week | workflow_call, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/vulture-dead-code.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/vulture-dead-code.yml) |
 
 ## Scheduled (own cron)
 
@@ -117,7 +117,7 @@ _None._
 | `labels-sync.yml` | ✅ | this week | push:main, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/labels-sync.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/labels-sync.yml) |
 | `mcp-tests.yml` | ✅ | this week | push:main,dev, PR, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/mcp-tests.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/mcp-tests.yml) |
 | `pr-triage.yml` | ✅ | this week | PR, pull_request_review | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/pr-triage.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/pr-triage.yml) |
-| `release.yml` | ✅ | this week | push:main, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/release.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/release.yml) |
+| `release.yml` | — | this week | push:main, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/release.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/release.yml) |
 | `version_check.yml` | ⏳ | this week | push:main, manual | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/version_check.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/version_check.yml) |
 | `welcome-first-time.yml` | ✅ | this week | PR-target | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/welcome-first-time.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/welcome-first-time.yml) |
 
@@ -133,7 +133,7 @@ _None._
 
 | Workflow | Status | Last activity | Trigger | Live badge |
 |---|---|---|---|---|
-| `issue-research.yml` | ✅ | this week | issues | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/issue-research.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/issue-research.yml) |
+| `issue-research.yml` | ⏳ | this week | issues | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/issue-research.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/issue-research.yml) |
 | `ldr-research-reusable.yml` | — | never | workflow_call | [![status](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ldr-research-reusable.yml/badge.svg)](https://github.com/LearningCircuit/local-deep-research/actions/workflows/ldr-research-reusable.yml) |
 
 <!-- END GENERATED -->
